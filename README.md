@@ -1,5 +1,12 @@
 ### Hi there 👋
 This profile is in construction...  🛠😅
+
+- ⭐ Enthusiastic Game and BackEnd Developer.
+- ✨ Systems Analysis (2019) at BandTec in São Paulo/Brazil 
+- ⚡ See my Organizations Repo (I've contributed more there)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-leme-71325b150/)](https://www.linkedin.com/in/germano-brigido-do-nascimento-256257143/)
+
 <!--
 **manoger/manoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
