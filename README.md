@@ -7,6 +7,12 @@ This profile is in construction...  🛠😅
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-leme-71325b150/)](https://www.linkedin.com/in/germano-brigido-do-nascimento-256257143/)
 
+
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=manoger&show_icons=true&theme=graywhite" /></a>
+</p> 
+   
+  
 <!--
 **manoger/manoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
