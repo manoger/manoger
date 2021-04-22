@@ -18,13 +18,6 @@ This profile is in construction...  🛠😅
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoger&hide=html&layout=compact&count_private=true" />
    </center> 
 </details>
-  
-<details>
-<summary>Chitanda test</summary>
-   <center> 
-     <img src="https://anime-girls-holding-programming-books.netlify.app/static/Chitanda_Eru_Holding_C_Programming_Language-517a4fe199ba9a7d9ed7cfe5426637b0.jpg"/>
-   </center> 
-</details>
 <!--
 **manoger/manoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
