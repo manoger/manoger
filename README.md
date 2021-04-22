@@ -1,3 +1,5 @@
+
+
 <img src="https://komarev.com/ghpvc/?username=manoger&color=green" alt="manoger" />
 
 ### Hi there 👋
@@ -7,7 +9,7 @@ This profile is in construction...  🛠😅
 - ⚡ See my Organizations Repo (I've contributed more there)
 - 🎓 Graduated from Faculdade Bandtec (Systems analysis and Development).
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-leme-71325b150/)](https://www.linkedin.com/in/germano-brigido-do-nascimento-256257143/)
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-leme-71325b150/)](https://www.linkedin.com/in/germano-brigido-do-nascimento-256257143/)
 
 <details>
 <summary>📊 Statistics</summary>
@@ -17,6 +19,12 @@ This profile is in construction...  🛠😅
    </center> 
 </details>
   
+<details>
+<summary>Chitanda test</summary>
+   <center> 
+     <img src="https://anime-girls-holding-programming-books.netlify.app/static/Chitanda_Eru_Holding_C_Programming_Language-517a4fe199ba9a7d9ed7cfe5426637b0.jpg"/>
+   </center> 
+</details>
 <!--
 **manoger/manoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
