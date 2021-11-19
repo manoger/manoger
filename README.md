@@ -2,8 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=manoger&color=green" alt="manoger" />
 
-### Hi there 👋
-This profile is in construction...  🛠😅
+### Olá 👋
 
 - ⭐ Enthusiastic Game and BackEnd Developer.
 - ⚡ See my Organizations Repo (I've contributed more there)
